@@ -1,0 +1,12 @@
+Keep a private sleep log on your Android device.
+
+Features:
+• Start and stop a sleep timer, or enter a night manually.
+• Review and edit your sleep history, notes, and sleep-quality ratings.
+• Track a daily sleep goal, averages, bedtime regularity, and charts.
+• Set a bedtime reminder based on your wake-up time and sleep goal.
+• Choose light, dark, or system theme.
+• Optionally keep an active sleep session running in the background with a persistent notification.
+• Export CSV files and back up or restore data as JSON.
+
+No account is required. The app has no internet permission; records stay on your device. Insights describe recorded data and are not medical advice or a diagnosis.

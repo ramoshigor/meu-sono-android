@@ -1,0 +1,32 @@
+// Copyright (C) 2026 Higor Ramos
+// SPDX-License-Identifier: GPL-3.0-only
+
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.meusono.app'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'br.com.meusono.tracker.v12'
+        minSdk 21
+        targetSdk 35
+        versionCode 8
+        versionName '1.7.0'
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            // Keep release builds unsigned. Distribution channels sign their own APKs.
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}

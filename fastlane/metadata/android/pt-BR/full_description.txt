@@ -1,0 +1,12 @@
+Mantenha um registro privado do sono no seu aparelho Android.
+
+Recursos:
+• Inicie e encerre um cronômetro de sono ou registre uma noite manualmente.
+• Consulte e edite o histórico, as observações e a avaliação da noite.
+• Acompanhe sua meta diária, médias, regularidade e gráficos.
+• Configure um lembrete para dormir com base na hora de acordar e na meta.
+• Escolha o tema claro, escuro ou automático.
+• Opcionalmente, mantenha a sessão ativa em segundo plano com uma notificação contínua.
+• Exporte CSV e faça backup ou restaure os dados em JSON.
+
+Não exige conta e não tem permissão de internet. Os registros permanecem no aparelho. As informações mostram apenas tendências dos dados e não são diagnóstico nem orientação médica.

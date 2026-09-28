@@ -1,0 +1,5 @@
+<!-- Copyright (C) 2026 Higor Ramos; SPDX-License-Identifier: GPL-3.0-only -->
+<resources>
+    <color name="bg">#050918</color>
+    <color name="purple">#8B6CFF</color>
+</resources>
